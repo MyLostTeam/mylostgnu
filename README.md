@@ -1,0 +1,2 @@
+# mylostgnu
+linux project
